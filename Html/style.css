@@ -1,0 +1,42 @@
+.container-fluid{
+  padding: 2px;
+  width: 100%;
+  height: 100%;
+  margin: 2px;
+}
+
+body{
+  background-color: #fff;
+  
+}
+
+.container-fluid{
+  padding: 2px;
+  width: 100%;
+  height: 100%;
+  margin: 2px;
+}
+
+.footer-copyright{
+  position: center;
+  padding: 5px;
+}
+
+#runningtext{
+	width 				: 100%;
+	height				: 40px;
+	padding-top  		: 5px;
+	margin				: 5px 0 5px 0;
+	background-color 	:white;
+	color				: black;
+	position			: relative;
+	text-align: center;
+	font-family:Georgia;
+}
+.card{
+  width: 100%;
+  text-align: center;
+}
+#isitext{
+  text-align: left;
+}
